@@ -1,4 +1,8 @@
 body {
-  background: violet;
+  background: green;
   padding: 1rem;
+}
+
+aside {
+  padding: 2rem;  
 }
