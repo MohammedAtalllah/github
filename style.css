@@ -4,5 +4,9 @@ body {
 }
 
 aside {
-  padding: 2rem;  
+  padding: 2rem;
+}
+
+header {
+  font-size: 2rem;
 }
