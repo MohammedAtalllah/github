@@ -6,3 +6,7 @@ body {
 aside {
   padding: 2rem;  
 }
+
+header {
+  font-size: 1.5rem; 
+}
